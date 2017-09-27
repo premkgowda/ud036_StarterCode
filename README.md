@@ -12,4 +12,4 @@ This program uses an api to read the 10 most popular movies in 2016 and displays
 ## Instructions to run the program
 1. Clone the repository
 2. Open entertainment_center.py in IDLE 
-3. Run Module
+3. Select _Run Module_ from the _Run_ menu option to run the program
